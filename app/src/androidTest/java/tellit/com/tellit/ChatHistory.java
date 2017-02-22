@@ -3,7 +3,7 @@ package tellit.com.tellit;
 import junit.framework.TestCase;
 
 /**
- * Created by probojnik on 02.09.15.
+ * Created by ioshero on 02.09.15.
  */
 public class ChatHistory extends TestCase {
 

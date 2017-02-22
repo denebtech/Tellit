@@ -30,7 +30,7 @@ import tellit.com.tellit.model.user_creation.LoginPasswAPIFacade;
 
 
 /**
- * Created by probojnik on 22.07.15.
+ * Created by ioshero on 22.07.15.
  */
 public class Login extends AccountAuthentificatorSupportActiviti {
     @InjectView(R.id.textView2)

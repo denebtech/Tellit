@@ -1,7 +1,7 @@
 package tellit.com.tellit.model.user_creation;
 
 /**
- * Created by probojnik on 07.09.15.
+ * Created by ioshero on 07.09.15.
  */
 public class UserPassw {
     String user,pwd;

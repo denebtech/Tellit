@@ -35,7 +35,7 @@ import tellit.com.tellit.ui.activitys.BaseActivity;
 import tellit.com.tellit.ui.fragments.contacts.ContactDetail;
 
 /**
- * Created by probojnik on 15.06.15.
+ * Created by ioshero on 15.06.15.
  */
 public class Favorites extends BaseFragment {
 

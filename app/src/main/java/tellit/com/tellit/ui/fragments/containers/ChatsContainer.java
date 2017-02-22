@@ -17,7 +17,7 @@ import tellit.com.tellit.ui.fragments.chat.ChatList;
 import tellit.com.tellit.ui.fragments.chat.ChatListMain;
 
 /**
- * Created by probojnik on 25.07.15.
+ * Created by ioshero on 25.07.15.
  */
 public class ChatsContainer extends BaseContainerFragment {
     @Override

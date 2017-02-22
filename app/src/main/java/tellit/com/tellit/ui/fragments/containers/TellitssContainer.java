@@ -12,7 +12,7 @@ import tellit.com.tellit.ui.fragments.BaseContainerFragment;
 import tellit.com.tellit.ui.fragments.review.TellitTabs;
 
 /**
- * Created by probojnik on 25.07.15.
+ * Created by ioshero on 25.07.15.
  */
 public class TellitssContainer extends BaseContainerFragment {
     @Nullable

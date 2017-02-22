@@ -7,7 +7,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.model.review.ReviewData;
 
 /**
- * Created by probojnik on 26.07.15.
+ * Created by ioshero on 26.07.15.
  */
 public class TellitMe extends TellitAll {
 

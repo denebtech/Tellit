@@ -15,7 +15,7 @@ import tellit.com.tellit.model.custom_xmpp.requests.muc.MucHistoryResp;
 import tellit.com.tellit.ui.activitys.autorithation.Login;
 
 /**
- * Created by probojnik on 11.09.15.
+ * Created by ioshero on 11.09.15.
 <query xmlns="custom:muc:history">
  <item>
  <nickName>564aa3c3688760153a4c400998d40234</nickName>

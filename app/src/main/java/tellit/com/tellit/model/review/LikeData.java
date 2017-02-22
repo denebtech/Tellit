@@ -9,7 +9,7 @@ import java.util.Date;
 import tellit.com.tellit.model.CreateDateObject;
 
 /**
- * Created by probojnik on 23.06.15.
+ * Created by ioshero on 23.06.15.
  <feedback>
      <id>1</id>
      <reviewId>2</reviewId>

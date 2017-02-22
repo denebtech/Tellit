@@ -12,7 +12,7 @@ import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 
 /**
- * Created by probojnik on 6/17/15.
+ * Created by ioshero on 6/17/15.
  */
 public class IgnoreSSL {
     SSLSocketFactory sslSocketFactory;

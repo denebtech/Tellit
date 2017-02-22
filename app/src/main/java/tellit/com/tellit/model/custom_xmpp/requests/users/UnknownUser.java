@@ -3,7 +3,7 @@ package tellit.com.tellit.model.custom_xmpp.requests.users;
 import org.jivesoftware.smack.packet.IQ;
 
 /**
- * Created by probojnik on 07.09.15.
+ * Created by ioshero on 07.09.15.
  *
  * <query xmlns="custom:iq:unknownUser">
  <username>59b8db9a4e2e64044ec902a7ac656c15</username>

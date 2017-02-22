@@ -24,7 +24,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.model.review.LikeData;
 
 /**
- * Created by probojnik on 29.09.15.
+ * Created by ioshero on 29.09.15.
  */
 public class LikesSync implements Callable {
     private Dao likeDao;

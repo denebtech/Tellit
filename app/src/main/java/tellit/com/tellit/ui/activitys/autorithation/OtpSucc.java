@@ -18,7 +18,7 @@ import tellit.com.tellit.service.XmppService;
 import tellit.com.tellit.ui.activitys.BaseActivity;
 
 /**
- * Created by probojnik on 22.07.15.
+ * Created by ioshero on 22.07.15.
  */
 public class OtpSucc extends BaseActivity {
     @InjectView(R.id.otp_succ_btn)

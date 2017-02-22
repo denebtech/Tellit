@@ -12,7 +12,7 @@ import android.os.Bundle;
 import tellit.com.tellit.ui.activitys.autorithation.Login;
 
 /**
- * Created by probojnik on 01.08.15.
+ * Created by ioshero on 01.08.15.
  */
 public class TellitAuthenticator extends AbstractAccountAuthenticator {
     public TellitAuthenticator(Context context) {

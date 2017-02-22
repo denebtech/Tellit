@@ -11,7 +11,7 @@ import tellit.com.tellit.model.custom_xmpp.messages.ReviewNotifycation;
 
 
 /**
- * Created by probojnik on 30.06.15.
+ * Created by ioshero on 30.06.15.
 
  <review xmlns="custom:iq::notification">
  <toJID>user1</toJID>

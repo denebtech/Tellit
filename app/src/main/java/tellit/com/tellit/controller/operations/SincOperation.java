@@ -27,7 +27,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 22.07.15.
+ * Created by ioshero on 22.07.15.
  */
 public class SincOperation  {
     @Inject

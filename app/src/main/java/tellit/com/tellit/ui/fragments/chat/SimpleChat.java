@@ -54,7 +54,7 @@ import tellit.com.tellit.ui.activitys.Tellit;
 import tellit.com.tellit.ui.fragments.CABFragment;
 
 /**
- * Created by probojnik on 10.06.15.
+ * Created by ioshero on 10.06.15.
  */
 public class SimpleChat extends CABFragment {
     String jid;

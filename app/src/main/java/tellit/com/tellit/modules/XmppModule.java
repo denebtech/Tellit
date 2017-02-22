@@ -44,7 +44,7 @@ import tellit.com.tellit.tools.SerialUtils;
 
 
 /**
- * Created by probojnik on 20.07.15.
+ * Created by ioshero on 20.07.15.
  */
 @Module(library = true)
 public class XmppModule {

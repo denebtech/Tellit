@@ -8,7 +8,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by probojnik on 11.09.15.
+ * Created by ioshero on 11.09.15.
  * <query xmlns="custom:muc:history">
  <item>
  <nickName>564aa3c3688760153a4c400998d40234</nickName>

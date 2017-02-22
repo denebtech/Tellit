@@ -52,7 +52,7 @@ import tellit.com.tellit.ui.activitys.autorithation.Profile;
 import tellit.com.tellit.ui.fragments.BaseFragment;
 
 /**
- * Created by probojnik on 24.07.15.
+ * Created by ioshero on 24.07.15.
  */
 public class ProfileFr extends BaseFragment {
     @InjectView(R.id.im_profile_img)

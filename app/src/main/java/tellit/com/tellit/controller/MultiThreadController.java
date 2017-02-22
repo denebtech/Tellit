@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 import tellit.com.tellit.MyApplication;
 
 /**
- * Created by probojnik on 17.07.15.
+ * Created by ioshero on 17.07.15.
  */
 public class MultiThreadController {
     final static int NUMBER_OF_CORES = Runtime.getRuntime().availableProcessors();

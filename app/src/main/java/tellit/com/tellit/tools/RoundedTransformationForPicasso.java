@@ -8,7 +8,7 @@ import android.graphics.RectF;
 import android.graphics.Shader;
 
 /**
- * Created by probojnik on 06.08.15.
+ * Created by ioshero on 06.08.15.
  */
 public class RoundedTransformationForPicasso implements com.squareup.picasso.Transformation {
     private final int radius;

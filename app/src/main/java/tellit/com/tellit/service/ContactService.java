@@ -23,7 +23,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.tools.log.TraceHelper;
 
 /**
- * Created by probojnik on 01.08.15.
+ * Created by ioshero on 01.08.15.
  */
 public class ContactService extends Service {
 

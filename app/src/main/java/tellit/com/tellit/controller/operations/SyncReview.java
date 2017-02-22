@@ -29,7 +29,7 @@ import tellit.com.tellit.model.review.ReviewData;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 11.08.15.
+ * Created by ioshero on 11.08.15.
  */
 public class SyncReview extends BaseOperation {
     Dao likeDao;

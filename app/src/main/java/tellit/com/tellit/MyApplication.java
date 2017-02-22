@@ -55,7 +55,7 @@ import tellit.com.tellit.tools.IgnoreSSL;
 
 
 /**
- * Created by probojnik on 17.05.15.
+ * Created by ioshero on 17.05.15.
  */
 public class MyApplication extends Application {
     public static Account sAccount;

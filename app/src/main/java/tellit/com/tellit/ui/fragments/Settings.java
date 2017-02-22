@@ -24,7 +24,7 @@ import tellit.com.tellit.ui.activitys.BaseActivity;
 import tellit.com.tellit.ui.fragments.autorithation.ProfileFr;
 
 /**
- * Created by probojnik on 26.06.15.
+ * Created by ioshero on 26.06.15.
  */
 public class Settings extends BaseFragment {
     @InjectView(R.id.content)

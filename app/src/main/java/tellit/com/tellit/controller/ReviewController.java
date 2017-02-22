@@ -38,7 +38,7 @@ import tellit.com.tellit.model.review.LikeData;
 import tellit.com.tellit.model.review.ReviewData;
 
 /**
- * Created by probojnik on 30.06.15.
+ * Created by ioshero on 30.06.15.
  */
 public class ReviewController {
 //    List<IReviewActions> reviewActionsList = new ArrayList<>();

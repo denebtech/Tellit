@@ -27,7 +27,7 @@ import tellit.com.tellit.ui.activitys.BaseActivity;
 import tellit.com.tellit.ui.activitys.Tellit;
 
 /**
- * Created by probojnik on 22.07.15.
+ * Created by ioshero on 22.07.15.
  */
 public class Profile extends BaseActivity {
     @Inject

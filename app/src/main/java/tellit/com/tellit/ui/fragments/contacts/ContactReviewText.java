@@ -30,7 +30,7 @@ import tellit.com.tellit.ui.fragments.BaseFragment;
 
 
 /**
- * Created by probojnik on 24.06.15.
+ * Created by ioshero on 24.06.15.
  */
 public class ContactReviewText extends BaseFragment {
     EditText editText;

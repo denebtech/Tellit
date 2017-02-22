@@ -12,7 +12,7 @@ import tellit.com.tellit.model.custom_xmpp.CustomStanzaController;
 import tellit.com.tellit.model.custom_xmpp.requests.users.AddContactsToRosterReq;
 
 /**
- * Created by probojnik on 29.09.15.
+ * Created by ioshero on 29.09.15.
  */
 public class AddToRosterSync implements Callable {
     private List<ContactData> normalisedContacts;

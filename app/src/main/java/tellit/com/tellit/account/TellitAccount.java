@@ -3,7 +3,7 @@ package tellit.com.tellit.account;
 import android.accounts.Account;
 
 /**
- * Created by probojnik on 01.08.15.
+ * Created by ioshero on 01.08.15.
  */
 public class TellitAccount extends Account {
 

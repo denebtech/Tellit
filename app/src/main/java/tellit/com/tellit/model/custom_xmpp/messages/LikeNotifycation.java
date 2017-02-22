@@ -3,7 +3,7 @@ package tellit.com.tellit.model.custom_xmpp.messages;
 import org.jivesoftware.smack.packet.ExtensionElement;
 
 /**
- * Created by probojnik on 12.08.15.
+ * Created by ioshero on 12.08.15.
  *
  * <message to="user254@igor-host" from="igor-host"><subject>feedback</subject><feedback xmlns="custom:iq::notification"><id>649</id></feedback></message>
  *

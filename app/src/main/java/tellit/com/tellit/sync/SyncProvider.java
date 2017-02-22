@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.net.Uri;
 
 /**
- * Created by probojnik on 09.08.15.
+ * Created by ioshero on 09.08.15.
  */
 public class SyncProvider extends ContentProvider {
     @Override

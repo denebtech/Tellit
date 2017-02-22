@@ -58,7 +58,7 @@ import tellit.com.tellit.ui.fragments.CABFragment;
 
 
 /**
- * Created by probojnik on 06.07.15.
+ * Created by ioshero on 06.07.15.
  *
  */
 public class ReviewChat extends CABFragment{

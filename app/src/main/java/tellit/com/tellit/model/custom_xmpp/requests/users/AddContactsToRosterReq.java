@@ -11,7 +11,7 @@ import tellit.com.tellit.tools.log.TraceHelper;
 
 
 /**
- * Created by probojnik on 02.07.15.
+ * Created by ioshero on 02.07.15.
  *
  <query xmlns="custom:iq:rosterItems">
  <item>

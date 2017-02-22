@@ -15,7 +15,7 @@ import tellit.com.tellit.account.TellitAccount;
 import tellit.com.tellit.account.TellitAuthenticator;
 
 /**
- * Created by probojnik on 01.08.15.
+ * Created by ioshero on 01.08.15.
  */
 class ContactChangeObserver extends ContentObserver {
     public ContactChangeObserver(Handler handler) {

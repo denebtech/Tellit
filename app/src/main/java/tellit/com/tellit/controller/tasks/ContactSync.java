@@ -35,7 +35,7 @@ import tellit.com.tellit.tools.IOUtil;
 import tellit.com.tellit.tools.log.TraceHelper;
 
 /**
- * Created by probojnik on 25.09.15.
+ * Created by ioshero on 25.09.15.
  */
 public class ContactSync implements Callable<List<ContactData>> {
 

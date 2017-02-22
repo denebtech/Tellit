@@ -59,7 +59,7 @@ import tellit.com.tellit.ui.fragments.containers.SettingsContainer;
 import tellit.com.tellit.ui.fragments.containers.TellitssContainer;
 
 /**
- * Created by probojnik on 22.07.15.
+ * Created by ioshero on 22.07.15.
  */
 public class Tellit extends BaseActivity {
     @Inject MyApplication myApplication;

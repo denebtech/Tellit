@@ -23,7 +23,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 28.09.15.
+ * Created by ioshero on 28.09.15.
  */
 public class SyncTasks {
     final String syncAll = "syncAll";

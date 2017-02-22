@@ -12,7 +12,7 @@ import tellit.com.tellit.tools.log.TraceHelper;
 import tellit.com.tellit.ui.activitys.BaseActivity;
 
 /**
- * Created by probojnik on 21.07.15.
+ * Created by ioshero on 21.07.15.
  */
 public abstract class BaseContainerFragment extends Fragment  {
     protected boolean mIsViewInited;

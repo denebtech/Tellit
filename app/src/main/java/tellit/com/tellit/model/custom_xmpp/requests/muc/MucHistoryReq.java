@@ -3,7 +3,7 @@ package tellit.com.tellit.model.custom_xmpp.requests.muc;
 import org.jivesoftware.smack.packet.IQ;
 
 /**
- * Created by probojnik on 11.09.15.
+ * Created by ioshero on 11.09.15.
  * <query xmlns='custom:muc:history'>
  <room_name>31</room_name>
  <msg_uuid>c6e7afac-d107-48b5-b21d-c9d4713ddb7f</msg_uuid>

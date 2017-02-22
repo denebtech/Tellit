@@ -13,7 +13,7 @@ import tellit.com.tellit.ui.fragments.Favorites;
 import tellit.com.tellit.ui.fragments.chat.ChatList;
 
 /**
- * Created by probojnik on 25.07.15.
+ * Created by ioshero on 25.07.15.
  */
 public class FavoritesContainer extends BaseContainerFragment {
     @Nullable

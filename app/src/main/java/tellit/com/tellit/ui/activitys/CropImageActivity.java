@@ -26,7 +26,7 @@ import tellit.com.tellit.R;
 import tellit.com.tellit.controller.operations.profile.SaveAva;
 
 /**
- * Created by probojnik on 14.09.15.
+ * Created by ioshero on 14.09.15.
  */
 public class CropImageActivity extends Activity {
 

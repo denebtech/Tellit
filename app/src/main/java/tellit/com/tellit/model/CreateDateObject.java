@@ -3,7 +3,7 @@ package tellit.com.tellit.model;
 import java.util.Date;
 
 /**
- * Created by probojnik on 01.09.15.
+ * Created by ioshero on 01.09.15.
  */
 public interface CreateDateObject {
     public Date getCreateDate();

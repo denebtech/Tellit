@@ -3,7 +3,7 @@ package tellit.com.tellit.model.custom_xmpp.requests.review;
 import org.jivesoftware.smack.packet.IQ;
 
 /**
- * Created by probojnik on 01.07.15.
+ * Created by ioshero on 01.07.15.
  */
 public class ReviewListByJIDReq extends IQ {
 

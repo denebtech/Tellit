@@ -33,7 +33,7 @@ import tellit.com.tellit.ui.fragments.BaseContainerFragment;
 import tellit.com.tellit.ui.fragments.BaseFragment;
 
 /**
- * Created by probojnik on 07.08.15.
+ * Created by ioshero on 07.08.15.
  */
 public class TellitFromUser extends BaseFragment  implements ITellitList {
     protected String jid;

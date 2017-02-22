@@ -4,7 +4,7 @@ import retrofit.RestAdapter;
 import retrofit.android.AndroidLog;
 
 /**
- * Created by probojnik on 04.09.15.
+ * Created by ioshero on 04.09.15.
  */
 public class LoginPasswAPIFacade {
     RestAdapter restAdapter;

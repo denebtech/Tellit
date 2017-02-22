@@ -18,7 +18,7 @@ import tellit.com.tellit.tools.TextUtil;
 import tellit.com.tellit.tools.log.TraceHelper;
 
 /**
- * Created by probojnik on 11.08.15.
+ * Created by ioshero on 11.08.15.
  */
 public class SearchContact extends AsyncTask {
     @Inject

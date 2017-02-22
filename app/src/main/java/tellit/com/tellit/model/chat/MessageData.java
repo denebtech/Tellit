@@ -15,7 +15,7 @@ import tellit.com.tellit.tools.U;
 import tellit.com.tellit.tools.log.TraceHelper;
 
 /**
- * Created by probojnik on 11.06.15.
+ * Created by ioshero on 11.06.15.
  * chat,groupchat
  */
 @DatabaseTable(tableName = "messages")

@@ -8,7 +8,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by probojnik on 11.08.15.
+ * Created by ioshero on 11.08.15.
  */
 public class SearchThreadController {
 

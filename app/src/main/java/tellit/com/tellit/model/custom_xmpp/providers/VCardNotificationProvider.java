@@ -11,7 +11,7 @@ import tellit.com.tellit.model.custom_xmpp.messages.ReviewMessage;
 import tellit.com.tellit.model.custom_xmpp.messages.VCardNotification;
 
 /**
- * Created by probojnik on 03.09.15.
+ * Created by ioshero on 03.09.15.
  *  <message to="+380968405959@tellit" from="tellit" id="-1014408302"><subject>vcard update</subject><vcard xmlns="custom:iq::notification"><user>+380635716703</user></vcard></message>
 
  */

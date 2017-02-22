@@ -5,7 +5,7 @@ import android.util.Log;
 import dagger.ObjectGraph;
 
 /**
- * Created by probojnik on 19.07.15.
+ * Created by ioshero on 19.07.15.
  */
 public class Injector {
     public static ObjectGraph graph;

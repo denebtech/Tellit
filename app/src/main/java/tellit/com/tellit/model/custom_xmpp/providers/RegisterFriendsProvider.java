@@ -12,9 +12,9 @@ import java.util.List;
 import tellit.com.tellit.model.custom_xmpp.requests.users.RegisterFriendsReq;
 
 /**
- * Created by probojnik on 25.09.15.
+ * Created by ioshero on 25.09.15.
  *
- *  * Created by probojnik on 25.09.15.
+ *  * Created by ioshero on 25.09.15.
  * <query xmlns='custom:iq:registerFriends'/>
  ответ прийдет в виде
  <query xmlns="custom:iq:registerFriends">

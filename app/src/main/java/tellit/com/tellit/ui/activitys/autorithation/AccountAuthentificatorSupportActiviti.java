@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 /**
- * Created by probojnik on 02.08.15.
+ * Created by ioshero on 02.08.15.
  */
 public class AccountAuthentificatorSupportActiviti extends AppCompatActivity {
 

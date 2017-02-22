@@ -34,7 +34,7 @@ import tellit.com.tellit.ui.fragments.chat.ReviewChat;
 import tellit.com.tellit.ui.fragments.contacts.ContactReviewRate;
 
 /**
- * Created by probojnik on 28.06.15.
+ * Created by ioshero on 28.06.15.
  */
 public class ContactsReviewList extends BaseFragment {
     ListView listView ;

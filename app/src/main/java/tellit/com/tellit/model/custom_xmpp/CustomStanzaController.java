@@ -27,7 +27,7 @@ import tellit.com.tellit.Injector;
 
 
 /**
- * Created by probojnik on 23.06.15.
+ * Created by ioshero on 23.06.15.
  */
 public class CustomStanzaController<T extends Stanza,R extends Stanza> {
     @Inject

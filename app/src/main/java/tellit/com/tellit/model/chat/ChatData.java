@@ -18,7 +18,7 @@ import tellit.com.tellit.model.IChatMessage;
 import tellit.com.tellit.tools.U;
 
 /**
- * Created by probojnik on 10.06.15.
+ * Created by ioshero on 10.06.15.
  */
 @DatabaseTable(tableName = "chats")
 public class ChatData implements IChatMessage {

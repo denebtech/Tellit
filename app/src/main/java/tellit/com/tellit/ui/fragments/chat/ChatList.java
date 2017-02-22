@@ -47,7 +47,7 @@ import tellit.com.tellit.ui.fragments.SwipeRefreshListFragment;
 
 
 /**
- * Created by probojnik on 12.06.15.
+ * Created by ioshero on 12.06.15.
  */
 public abstract class ChatList extends SwipeRefreshListFragment {
     protected ChatAdapter chatAdapter;

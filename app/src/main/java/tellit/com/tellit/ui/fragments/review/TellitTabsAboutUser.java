@@ -26,7 +26,7 @@ import tellit.com.tellit.ui.fragments.BaseContainerFragment;
 import tellit.com.tellit.ui.fragments.BaseFragment;
 
 /**
- * Created by probojnik on 26.07.15.
+ * Created by ioshero on 26.07.15.
  */
 public class TellitTabsAboutUser extends BaseFragment implements ActionBar.TabListener {
     private static final String TAB_1_TAG = "tab_1";

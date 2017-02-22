@@ -29,7 +29,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 22.07.15.
+ * Created by ioshero on 22.07.15.
  *
  * <message to="+380635716703@ip-172-31-7-92" from="ip-172-31-7-92">
  *     <subject>vcard update</subject><vcard xmlns="custom:iq::notification"><user>+380637699857</user></vcard>

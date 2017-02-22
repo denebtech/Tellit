@@ -37,7 +37,7 @@ import tellit.com.tellit.ui.fragments.SwipeRefreshListFragment;
 
 
 /**
- * Created by probojnik on 09.06.15.
+ * Created by ioshero on 09.06.15.
  */
 public class ContactList extends SwipeRefreshListFragment implements SearchView.OnQueryTextListener {
     private final static String MP_ONLY_TELLIT_CONTACTS = "MAPPING_KEY_ONLY_TELLYT_CONTACTS";

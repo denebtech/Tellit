@@ -41,7 +41,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 24.07.15.
+ * Created by ioshero on 24.07.15.
  */
 @Module(library = true)
 public class SaveAva {

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by probojnik on 06.07.15.
+ * Created by ioshero on 06.07.15.
  *
  * <user>
  <jid>user</jid>

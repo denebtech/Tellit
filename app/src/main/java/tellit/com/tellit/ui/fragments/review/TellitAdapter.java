@@ -61,7 +61,7 @@ import tellit.com.tellit.ui.activitys.Tellit;
 import tellit.com.tellit.ui.fragments.chat.ReviewChat;
 
 /**
- * Created by probojnik on 18.08.15.
+ * Created by ioshero on 18.08.15.
  */
 public class TellitAdapter extends ArrayAdapter<ReviewData> {
     boolean b_from, b_to;

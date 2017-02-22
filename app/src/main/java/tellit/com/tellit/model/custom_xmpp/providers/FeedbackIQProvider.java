@@ -12,7 +12,7 @@ import tellit.com.tellit.model.custom_xmpp.requests.feedbwck.FeedbackIQ;
 
 
 /**
- * Created by probojnik on 22.06.15.
+ * Created by ioshero on 22.06.15.
  */
 public class FeedbackIQProvider extends IQProvider<FeedbackIQ>{
     public static final String ELEMENT = "response";

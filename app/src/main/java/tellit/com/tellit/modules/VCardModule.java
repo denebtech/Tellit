@@ -35,7 +35,7 @@ import tellit.com.tellit.model.database.HelperFactory;
 import tellit.com.tellit.tools.log.TraceHelper;
 
 /**
- * Created by probojnik on 14.08.15.
+ * Created by ioshero on 14.08.15.
  */
 @Module(library = true)
 public class VCardModule {

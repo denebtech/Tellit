@@ -6,7 +6,7 @@ import org.jivesoftware.smack.util.XmlStringBuilder;
 import java.util.Date;
 
 /**
- * Created by probojnik on 25.06.15.
+ * Created by ioshero on 25.06.15.
  *
  *  <message to='+380635716703@tellit/00000000-05d6-8cf5-ffff-ffff89ef02cb' id='EQ3Pu-316' type='chat'><read xmlns=‘custom:message:read’> <id>id'Hc84F-353</id><read/></message>
  */

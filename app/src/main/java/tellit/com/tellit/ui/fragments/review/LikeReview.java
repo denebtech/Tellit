@@ -37,7 +37,7 @@ import tellit.com.tellit.ui.fragments.chat.ReviewChat;
 
 
 /**
- * Created by probojnik on 29.06.15.
+ * Created by ioshero on 29.06.15.
  */
 public class LikeReview extends BaseFragment {
     ProgressDialog pd;

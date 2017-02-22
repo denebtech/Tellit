@@ -18,7 +18,7 @@ import tellit.com.tellit.model.custom_xmpp.requests.rating.RatingAllUsersReq;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 30.09.15.
+ * Created by ioshero on 30.09.15.
  */
 public class RatingSinc implements Callable {
 

@@ -5,7 +5,7 @@ import org.jivesoftware.smack.packet.IQ;
 import java.util.List;
 
 /**
- * Created by probojnik on 01.07.15.
+ * Created by ioshero on 01.07.15.
  <query xmlns="custom:iq:likeAll">
  <jid>test@domain</jid>
  <jid>test1@domain</jid>

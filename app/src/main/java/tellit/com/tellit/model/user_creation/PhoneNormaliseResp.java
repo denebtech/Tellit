@@ -8,7 +8,7 @@ import tellit.com.tellit.tools.U;
 
 /**
  * deprecate
- * Created by probojnik on 6/17/15.
+ * Created by ioshero on 6/17/15.
  * {"phones":[{"number":"+380662909889","type":"MOBILE"},{"number":"+380505678789","type":"MOBILE"},{"number":"+18185749510","type":"FIXED_LINE_OR_MOBILE"},
  * {"number":"+298323456","type":"FIXED_LINE"},{"number":"+380567322536","type":"FIXED_LINE"}]}
  *

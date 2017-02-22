@@ -5,7 +5,7 @@ import org.jivesoftware.smack.util.SHA1;
 import org.jivesoftware.smack.util.XmlStringBuilder;
 
 /**
- * Created by probojnik on 25.06.15.
+ * Created by ioshero on 25.06.15.
  *    <review_message xmlns="custom:message:review">
  <msg_guid>4CF1E236-DB56-4056-A223-95AA07499F90</msg_guid>
  <vote>0</vote>

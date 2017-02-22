@@ -6,7 +6,7 @@ import tellit.com.tellit.ui.fragments.BaseContainerFragment;
 import tellit.com.tellit.ui.fragments.BaseFragment;
 
 /**
- * Created by probojnik on 18.08.15.
+ * Created by ioshero on 18.08.15.
  */
 public interface ITellitList {
     public BaseContainerFragment getParent();

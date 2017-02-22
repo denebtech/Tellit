@@ -3,7 +3,7 @@ package tellit.com.tellit.model.custom_xmpp.requests.feedbwck;
 import org.jivesoftware.smack.packet.IQ;
 
 /**
- * Created by probojnik on 23.06.15.
+ * Created by ioshero on 23.06.15.
  *
  <query xmlns="custom:iq:feedback">
      <reviewId>12</reviewId>

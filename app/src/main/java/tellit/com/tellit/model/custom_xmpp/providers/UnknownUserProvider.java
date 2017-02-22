@@ -10,7 +10,7 @@ import java.io.IOException;
 import tellit.com.tellit.model.custom_xmpp.requests.users.UnknownUser;
 
 /**
- * Created by probojnik on 07.09.15.
+ * Created by ioshero on 07.09.15.
  *
  * <query xmlns="custom:iq:unknownUser">
  <phoneMask>+380******959</phoneMask>

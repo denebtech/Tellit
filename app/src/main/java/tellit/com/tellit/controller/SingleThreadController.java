@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 import tellit.com.tellit.controller.operations.OperationCalback;
 
 /**
- * Created by probojnik on 11.08.15.
+ * Created by ioshero on 11.08.15.
  */
 public class SingleThreadController {
 

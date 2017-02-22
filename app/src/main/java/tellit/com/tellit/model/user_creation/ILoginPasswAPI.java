@@ -7,7 +7,7 @@ import retrofit.http.POST;
 import retrofit.http.Path;
 
 /**
- * Created by probojnik on 04.09.15.
+ * Created by ioshero on 04.09.15.
  */
 public interface ILoginPasswAPI {
 

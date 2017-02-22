@@ -12,7 +12,7 @@ import tellit.com.tellit.model.custom_xmpp.requests.review.ReviewIQ;
 
 
 /**
- * Created by probojnik on 22.06.15.
+ * Created by ioshero on 22.06.15.
  *  <iq type="result" id="Myn6E-353" to="+380635716703@ip-172-31-7-92/ffffffff-b8c9-d697-ffff-ffff89ef02cb">
  *      <response xmlns="custom:iq:review"><reviewid>1</reviewid></response>
  *  </iq>

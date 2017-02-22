@@ -34,7 +34,7 @@ import tellit.com.tellit.ui.fragments.BaseFragment;
 
 
 /**
- * Created by probojnik on 30.06.15.
+ * Created by ioshero on 30.06.15.
  */
 public class TellitAll extends BaseFragment implements ITellitList {
     protected static final long OFFSET = 10l;

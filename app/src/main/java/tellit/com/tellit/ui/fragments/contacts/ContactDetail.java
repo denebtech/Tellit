@@ -54,7 +54,7 @@ import tellit.com.tellit.ui.fragments.review.ContactsReviewList;
 import tellit.com.tellit.ui.fragments.review.TellitTabsAboutUser;
 
 /**
- * Created by probojnik on 24.06.15.
+ * Created by ioshero on 24.06.15.
  */
 public class ContactDetail extends BaseFragment {
     @Inject

@@ -12,7 +12,7 @@ import tellit.com.tellit.model.custom_xmpp.CustomStanzaController;
 import tellit.com.tellit.model.custom_xmpp.requests.users.RegisterFriendsReq;
 
 /**
- * Created by probojnik on 28.09.15.
+ * Created by ioshero on 28.09.15.
  */
 public class RegisteredFriendSync implements Callable {
     @Override

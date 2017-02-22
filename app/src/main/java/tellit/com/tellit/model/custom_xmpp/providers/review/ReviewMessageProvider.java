@@ -11,7 +11,7 @@ import tellit.com.tellit.model.custom_xmpp.messages.ReviewMessage;
 
 
 /**
- * Created by probojnik on 14.07.15.
+ * Created by ioshero on 14.07.15.
  */
 public class ReviewMessageProvider extends ExtensionElementProvider<ReviewMessage> {
     @Override

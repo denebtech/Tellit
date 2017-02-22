@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by probojnik on 30.06.15.
+ * Created by ioshero on 30.06.15.
  */
 public class ReviewListByIDReq extends IQ {
     public static final String ELEMENT = "query",NAMESPACE = "custom:iq:reviewIds";

@@ -14,7 +14,7 @@ import tellit.com.tellit.tools.log.TraceHelper;
 import tellit.com.tellit.ui.activitys.BaseActivity;
 
 /**
- * Created by probojnik on 21.07.15.
+ * Created by ioshero on 21.07.15.
  */
 public class BaseListFragment extends ListFragment {
     protected final String LOG = ((Object)this).getClass().getSimpleName();

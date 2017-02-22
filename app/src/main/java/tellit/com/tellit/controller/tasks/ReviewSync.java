@@ -23,7 +23,7 @@ import tellit.com.tellit.model.review.ReviewData;
 import tellit.com.tellit.modules.VCardModule;
 
 /**
- * Created by probojnik on 29.09.15.
+ * Created by ioshero on 29.09.15.
  */
 public class ReviewSync implements Callable {
     @Inject

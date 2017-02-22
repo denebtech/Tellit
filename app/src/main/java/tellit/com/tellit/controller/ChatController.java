@@ -59,7 +59,7 @@ import tellit.com.tellit.modules.VCardModule;
 import tellit.com.tellit.ui.activitys.Tellit;
 
 /**
- * Created by probojnik on 6/17/15.
+ * Created by ioshero on 6/17/15.
  */
 public  class ChatController  {
     @Inject

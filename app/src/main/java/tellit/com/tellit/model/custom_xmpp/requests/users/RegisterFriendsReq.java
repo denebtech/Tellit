@@ -10,7 +10,7 @@ import tellit.com.tellit.tools.TextUtil;
 import tellit.com.tellit.tools.log.TraceHelper;
 
 /**
- * Created by probojnik on 25.09.15.
+ * Created by ioshero on 25.09.15.
  * <query xmlns='custom:iq:registerFriends'/>
  ответ прийдет в виде
  <query xmlns="custom:iq:registerFriends">
